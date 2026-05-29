@@ -1,0 +1,23 @@
+{
+  "name": "seekho-ads",
+  "version": "1.1.0",
+  "description": "Seekho ad-creative toolkit — Hinglish weight-loss ad scripts for Tier 2-3 India audience with built-in ASCI/Meta compliance, P7-P14 guardrails, and a 4-stage flow. Ships both a `/weightloss-ad` slash command and an auto-triggering `weightloss-ad` skill.",
+  "author": {
+    "name": "Abhay Pratap",
+    "email": "abhay@seekho.in"
+  },
+  "homepage": "https://github.com/seekho/claude-plugins",
+  "license": "Proprietary",
+  "keywords": [
+    "seekho",
+    "ad-creative",
+    "hinglish",
+    "weight-loss",
+    "tier-2-3-india",
+    "meta-ads",
+    "ig-reels",
+    "compliance",
+    "slash-command",
+    "skill"
+  ]
+}
