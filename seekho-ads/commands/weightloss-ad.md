@@ -19,15 +19,21 @@ These are layered on top of this file. Obey every active guardrail. If a guardra
 - **P3** — No scene detailing in ads (zero prose staging; only front-matter Setting/Tone + inline `[VISUAL:]` / `[TEXT:]` tags — note: this command's scripts are voice-only, so even those tags are out).
 - **P5** — Cultural register (Tier 2–5 satirical). Opener = taunt/overheard from named relation in named setting. State register in front-matter.
 - **P6** — Discovery not salesy. No CTA verbs in Discovery, no feature lists, no early Seekho logo, must have a human bridge.
-- **P7** — Hook must carry a weight-loss category signal in the first 1–2 spoken lines (within 10s). Approved signal words: kapde tight, blouse fitting, vajan, motapa, body, weight, sharir, function-mein-kapde, patli-vs-moti. **For Meta ad attribution.**
-- **P8** — Tier-1 vocabulary BANNED + substitution mandatory. Replace: terrace→chaat, hormones→sharir ka chalan, metabolism→body kaise khaana pachaati hai, adrenaline→body ka alarm, immunity→bachaav ki taakat, cardio→tez chalna, workout→hilna-dulna / ghar ka kaam, lifestyle→rehne ka tarika. Greylist (one mention + inline translation only): cortisol, ghrelin, insulin, calories.
-- **P9** — Discovery must NAME "Seekho app" explicitly whenever phone/video/screen/app cue appears. *"Seekho app pe ek doctor sahab samjha rahi thi…"* — not generic "ek app", "online", or "ek video".
+- **P7** — Hook must carry a weight-loss category signal in the first 1–2 spoken lines (within 10s). Approved signal words: kapde tight, blouse fitting, vajan, motapa, body, weight, sharir, function-mein-kapde, patli-vs-moti. **For Meta ad attribution.** **Tightened by P20 — must land within the first ~15–20 spoken words. AND: when the hook's memorable punch is a quoted taunt, that taunt must itself spend an explicit comparative-body word** (*patli / moti / vajan / motapa*) — ✅ *"rehne de, tum ab pehle jaise patli nahi rahi"* not ❌ vague *"ab tum pehle jaisi kahan rahi."* A clothing cue (saree/blouse) elsewhere still counts as a signal, but don't waste the strongest slot on a vague punch.
+- **P8** — Tier-1 vocabulary BANNED + substitution mandatory. Replace: terrace→chaat, hormones→sharir ka chalan, metabolism→body kaise khaana pachaati hai, adrenaline→body ka alarm, immunity→bachaav ki taakat, cardio→tez chalna, workout→hilna-dulna / ghar ka kaam, lifestyle→rehne ka tarika. Greylist (one mention + inline translation only): cortisol, ghrelin, insulin, calories. **§3a — abstract-English emotion/psych words also BANNED:** frustration→pareshani/jhunjhlahat, self-doubt→khud pe shak, comparison→tulna, identity→apni pehchaan, personality→rephrase, motivation/insecurity/guilt/journey/transformation→plain Hindi. Also Visceral/Subcutaneous fat, Post-partum metabolism → plain Hindi. Zero/minimal English — default to what the TG actually speaks.
+- **P9** — Discovery must NAME "Seekho app" explicitly whenever phone/video/screen/app cue appears. *"Seekho app pe bohot saare doctors aur experts samjhate hain…"* (P19: plural, never "ek doctor") — not generic "ek app", "online", or "ek video".
 - **P10** — Doctor-attribution language: NEVER "doctor ne bola/kaha/order kiya". ALWAYS "doctor ne samjhaya / samjhate hain / explain kar rahi thi". Same for expert/nutritionist/dietitian. Legal compliance (ASCI + Meta medical-claim policy).
-- **P11** — Payoff bridge beat: every ad ≥30s must have a bridge line(s) between Solutions and Payoff. Bridge = fuzzy timeline ("dheere dheere", "kuch hafton mein") + small mechanism / consistency. NO numerics, NO day-count. For 15s, prepend a 3–5 word bridge phrase to the payoff line.
-- **P12** — Natural flowing Hindi. Default = multi-clause connected sentences with connectives (*toh / par / kyunki / aur / lekin / fir / isliye*). Fragments (3–5 words) only when emotionally justified — shock, punch line, one-word revelation. **Never 3+ ultra-short staccato lines in a row.** Supersedes the older "spoken fragments" rule.
-- **P13** — No metaphor-as-couplet. Metaphors (tijori, alarm, taala, kitchen analogies) stay allowed — but **never extended into a 2-line poetic structure** *"X jaisa hota hai. Y ho jaata hai."* Keep the analogy in ONE flowing prose line joined by a connective (*toh / jaise / matlab / yaani*). Couplet rhythm reads as shayari, not conversation.
-- **P14** — Discovery topic + insight specificity. P9 (naming Seekho) is necessary but **not sufficient** — the Discovery beat must also state **(a) the topic** the doctor was teaching (a noun-clause, e.g. *"…ki bhookha rehne se body taala laga deti hai"*) AND **(b) the one insight** that flipped her thinking (*"main jo kar rahi thi wo ulta tha"*). Generic *"doctor samjha rahi thi"* / *"sab kuch ulta tha"* without topic+insight **fails**.
+- **P11** — Payoff bridge beat: every ad ≥30s must have a bridge line(s) between Solutions and Payoff. Bridge = fuzzy timeline ("dheere dheere", "kuch hafton mein") + small mechanism / consistency. NO numerics, NO day-count. The bridge must be **ONE smooth flowing sentence (or two joined ones) with connectives — never small broken/staccato lines, never a rhyming or parallel em-dash pair** (bound by P12 + P17, which win inside the bridge). **The bridge must HAND INTO the concrete P18 payoff — it must NOT itself carry the visible change. Do NOT end on a vague *"farak khud dikhne laga"* / *"body ne khud sambhalna shuru kiya toh farak dikhne laga."* That starves the payoff; the named, concrete change belongs in P18.** E.g. ✅ bridge *"Maine bhi apni rafat se shuru kiya — roz bas thoda-thoda, aur kuch hafton mein body ne khud sambhalna shuru kiya"* → then P18 payoff names *what* changed (gaal/chehra pehle jaisa, kandhe halke). For 15s, prepend a 3–5 word bridge phrase to the payoff line.
+- **P12** — Natural flowing Hindi. Default = multi-clause connected sentences with connectives (*toh / par / kyunki / aur / lekin / fir / isliye*). Fragments (3–5 words) only when emotionally justified — shock, punch line, one-word revelation. **Never 3+ ultra-short staccato lines in a row.** The **Bridge beat (P11) is NOT exempt** — P12 governs the bridge's rhythm too. Supersedes the older "spoken fragments" rule.
+- **P13** — ⚠️ **SUPERSEDED by P17 (2026-06-02).** P13 only banned the couplet *shape* and allowed metaphors; that allowance is revoked. Enforce P17 instead (total metaphor ban).
+- **P14** — Discovery topic + insight. P9 (naming Seekho) is necessary but **not sufficient** — the Discovery beat must state BOTH (a) **the topic** the doctor was teaching (a noun-clause, e.g. *"…ki bhookha rehne se body taala laga deti hai"*) AND (b) the specific **insight** that flipped her thinking. Generic *"doctor samjha rahi thi"* / *"sab kuch ulta tha"* without topic + insight **fails**. **(round 3 — the live rule)** The topic + insight must be **pulled from `references/problem_statement_bank.md`**, selected by the brief's root-cause bucket (A–H, same buckets as solutions_bank), and a **distinct** framing — NOT the worn stock *"shaadi/delivery ke baad sharir ka chalan dheere ho jaata hai"* line. Keep both topic + insight concrete (not a lecture), but **both are required** — do not drop the insight. One root-cause lookup serves both banks. *(History: round 4's <~15–20-word cap and round 5's brief-one-liner / optional-insight rule were both REVERTED same day at Kashish's request — the live rule is round 3.)*
 - **P15** — Script halves in sync. The first half (Hook + Body + Failed Efforts) and second half (Discovery + Solutions + Bridge + Payoff + CTA) must stay in tonal, register, and specificity sync. Named relations / settings / vocabulary / emotional thread from the first half must carry through to the CTA. **CTA in slogan/jingle voice is the worst symptom of drift** — the CTA must inherit the host's voice, not switch to marketing copy.
+- **P16** — Discovery as a **real remembered exchange**, not a made-up pitch. Requires all five: (a) a **named/placed person** (not "ek friend / kisi ne"); (b) a **shared-past anchor** (*"woh bhi mere jaisi thi"*); (c) a **real trigger** (she asks, or it comes up naturally); (d) the friend's answer in **her own spoken voice**; (e) **proof = a real life outcome** (rishta / shaadi / confidence), not weight stats. Never an unprompted pitch, never a template tell like *"ek din phone pe video aayi."* Stacks on P6 + P14.
+- **P17** — **No metaphor / analogy / simile / rhyme / couplet ANYWHERE** (total ban, **replaces P13**). Solutions must be **plain literal cause-effect** Tier-2/3 Hindi (model: *"bhookhi rehne se body sochti hai khaane ki kami hai, isliye fat aur pakad leti hai"*). Banned bank: *tijori, taala, alarm, godown, nala, pressure-cooker, bunyaad, shift*. No bold-overlay shareable-couplet allowance. Detect any comparison → rewrite to literal.
+- **P18** — Payoff pairs physical + emotional, and **both must be concrete**. Every payoff (≥30s) must pair **≥1 tangible physical change AND ≥1 emotional/relational change**, placed adjacent so the transformation compounds. **Physical = prefer a named body part returning to normal** (*gaal/chehra pehle jaisa, kandhe halke, pet andar, chehre ki sujan kam, chehre pe kasaav*); *kapde fit / aaina / saans / neend* is the floor, not the ceiling. **Emotional = prefer a concrete social-attention reversal tied to the exact people who taunted/ignored her in the first half** (*"pehle log/pati bhaav dena band kar diye the — ab bhaav dete hain", "pati ne phir se waise dekha jaise pehle dekha karta tha"*); generic "confidence aaya" is the floor. Sits after the P11 bridge (which hands into it). Compliance-safe — qualitative body-part words are allowed (no numerics / sizes / before-after; non-objectifying — *attention/respect returning*, not "pyaar wapas aaya").
+- **P19** — Many doctors & experts, never "ek doctor". Discovery + Solutions must frame Seekho as *"bohot saare doctors aur experts"* / *"alag-alag doctors apni Hindi mein samjhate hain"* / *"kai experts ne body type ke hisaab se samjhaya"* — **never "ek doctor" as the only expert cue** (reads as a one-person tip channel, throws away the breadth-trust signal). One exception: inside a remembered exchange (P16) a single video may be quoted, but the platform framing around it must still convey breadth. Always educator verbs (P10).
+- **P20** — Hook category signal within the first ~15–20 words. Tightens P7: the weight-loss category-signal word must appear **within the first ~15–20 spoken words**, in the host's own voice — not buried after a taunt + reaction. **Quick test:** count words from the first spoken word to the first signal word; **≤~20 = pass, >20 = fail, move it forward.** (Anniversary ad failed — signal landed at ~word 29.) The taunt opener (P5) is still allowed but the body word must carry or sit adjacent to it. **For Meta ad attribution.**
+- **P21** — Solutions sourced from the real-content bank, root-cause-tailored. `references/solutions_bank.md` (extracted from real Seekho content) is read to *understand* this brief's root-cause answer space, to **pull the glimpsed do-this + mechanism**, and to **feed the Discovery mechanism spine (P14)**. The 5 anchors stay as *categories*. **(round 3 — the live rule) Solutions = a glimpse + a cliffhanger.** State the mechanism, reveal **exactly ONE** concrete do-this (a named food / habit / timing — e.g. *katori dahi/dal*), then tease the rest is on Seekho (*"baaki sab usne Seekho pe un doctors se hi seekha — kya khaana, kab khaana, sab apni body ke hisaab se"*). Don't dump the full regimen (4+ habits in one breath) for free; don't reveal zero either — one concrete glimpse proves the method is real. *(History: round 4 and round 5 both made Solutions ZERO-do-this + pure cliffhanger — both REVERTED same day at Kashish's request; the live rule is round 3's single-glimpse.)*
 
 ---
 
@@ -42,8 +48,8 @@ Order: **Hook → Body (with Failed Efforts) → Discovery → Solutions → Pay
 | 3 | Failed Efforts | Characteristic (inside Body) | Frame Seekho as last hope |
 | 4 | Discovery | Transitioning Phase | Pivot problem → answer |
 | 5 | Solutions | Characteristic | Doctors / ghar-se / mechanism / Hindi / sustainable |
-| 6 | Payoffs | Characteristic | Compliance-safe outcome moments |
-| 7 | CTA | Part | "Seekho — abhi install karo" |
+| 6 | Payoffs | Characteristic | Compliance-safe outcome moments — pair physical + emotional (P18) |
+| 7 | CTA | Part | "Seekho — abhi install karo" (host's own voice, no jingle — P15) |
 
 ### Beat allocations by length
 
@@ -121,27 +127,34 @@ If the user asks for **3 hooks**, deliver one of each archetype.
 
 ---
 
-## Solutions — 5 universal anchors (pick by length)
+## Solutions — 5 universal anchors + real-content bank (P21)
 
-1. **Verified doctors / asli science** (trust signal — REQUIRED at least once)
+The 5 anchors below are **categories**, not the script. **Read `references/solutions_bank.md`** (real Seekho content, indexed by root cause — post-pregnancy, "kam khaake bhi nahi gaya", cravings, myths, etc.) to *understand* this brief's root-cause answer space, to **pull the glimpsed do-this + mechanism**, and to feed the **Discovery mechanism spine (P14)**.
+
+**(round 3 — the live rule) Solutions = a glimpse + a cliffhanger.** State the mechanism, reveal **exactly ONE** concrete do-this (a named food / habit / timing — e.g. *katori dahi/dal*), then tease the rest is on Seekho (*"baaki sab usne Seekho pe un doctors se hi seekha — kya khaana, kab khaana, sab apni body ke hisaab se"*). Don't dump the full regimen (4+ habits in one breath) for free; don't reveal zero either — one concrete glimpse proves the method is real. *(History: round 4 and round 5 both made Solutions ZERO-do-this + pure cliffhanger — both REVERTED same day at Kashish's request; the live rule is round 3's single-glimpse.)*
+
+1. **Verified doctors / asli science** (trust signal — REQUIRED at least once; frame as *"bohot saare doctors aur experts"* per P19)
 2. **Ghar se / sasta / without gym** (affordability — REQUIRED at least once)
-3. **Metabolism / hormones / body samajhna** (mechanism)
-4. **Hindi / simple language** (accessibility)
-5. **Sustainable / without extreme** (longevity)
+3. **Body kaise khaana pachaati hai / sharir ka chalan** (mechanism — note P8 substitutions, never "metabolism"/"hormones" in the spoken line)
+4. **Hindi / apni boli** (accessibility)
+5. **Sustainable / bina extreme** (longevity)
 
-15s = 1. 30s = 2. 60s = 3. 90s = all 5.
+15s = 1. 30s = 2. 60s = 3. 90s = all 5. The anchor *count* is the category checklist; the *content* comes from the bank.
+
+**P17 — Solutions must be plain literal cause-effect.** State the mechanism as a fact, never a comparison. ✅ *"bhookhi rehne se body sochti hai khaane ki kami hai, isliye fat aur pakad leti hai."* ❌ no *tijori / taala / alarm / godown / pressure-cooker* analogies, no rhyme, no couplet — not even in a bold overlay.
 
 ---
 
 ## Discovery patterns — pick ONE, state which
 
-1. **Accidental scroll** — "Ek din phone pe ye video aayi…"
-2. **Friend told me** — "Behen ne bola, ek baar try karo…"
-3. **Doctor in the video** — "Doctor sahab keh rahe the…"
-4. **Sahi baat lagi** — "Pehli baar kisi ne sahi baat boli…"
-5. **App store stumble** — "Bas yun hi Play Store pe dikha…"
+**P16 cross-cutting rule (mandatory):** the Discovery must read as a **real remembered exchange**, not a made-up pitch. It needs all five: (a) a **named/placed person** (not "ek friend / kisi ne"); (b) a **shared-past anchor** (*"woh bhi mere jaisi thi"*); (c) a **real trigger** (she asks, or it comes up naturally); (d) the friend's answer in **her own spoken voice**; (e) **proof = a real life outcome** (rishta / shaadi / confidence). Plus P14: name the **topic** the doctor taught + the **insight** that flipped her thinking — **pulled from `references/problem_statement_bank.md`**, root-cause-bucketed (A–H) and a *distinct* framing, NOT the worn stock *"sharir ka chalan dheere ho jaata hai"* line. The pure phone-serendipity "scroll" tell is discouraged — anchor it in a person.
 
-Tone: cautious-curious, not excited. She's been burned. No Seekho logo until CTA.
+1. **Reunited friend** — "Pichhle mahine Meena mili — shaadi mein. Woh bhi pehle mere jaisi thi. Maine poocha tu kaise badli? Boli — Seekho app pe bohot saare doctors aur experts samjhate hain, ek video mein doctor samjha rahi thi ki bhookha rehne se body khaana jamaa karne lagti hai…" (named person + shared past + real trigger + own voice + P14 topic + P19 breadth)
+2. **Behen / family member** — "Choti behen ne ek din baith ke samjhaya — woh Seekho app pe alag-alag doctors ko sun rahi thi…" (named relation, her own voice; P19 plural)
+3. **Doctor in the video** — "Seekho app pe bohot saare doctors aur experts samjhate hain — ek video mein doctor samjha rahi thi ki…" (P10: samjhaya, not bola; P14: state the topic; P19: plural platform framing)
+4. **Sahi baat lagi** — "Pehli baar Seekho app pe doctors ne sahi baat samjhaayi — ki…" (must still carry topic + insight; P19 plural)
+
+Tone: cautious-curious, not excited. She's been burned. Never an unprompted pitch, never a template tell like "ek din phone pe video aayi." No Seekho logo until CTA, but the app is named aloud in Discovery (P9).
 
 ---
 
@@ -150,7 +163,8 @@ Tone: cautious-curious, not excited. She's been burned. No Seekho logo until CTA
 - Roman-script Hindi with English words the audience already uses ("gym", "phone", "doctor", "office").
 - **Natural flowing Hindi sentences** — multi-clause connected lines with connectives (*toh / par / kyunki / aur / lekin / fir / isliye*). Fragments (3–5 words) ONLY when emotionally justified — shock beat, punch line, one-word revelation. **Never 3+ ultra-short staccato lines in a row.** (P12 — supersedes the older "spoken fragments" rule.)
 - **Medical terms once** — say it, translate immediately. (e.g., "insulin resistance — matlab, body sugar ko sambhal nahi paati.")
-- **Analogies > jargon.** Kitchen, household, family. **Keep the analogy in one flowing prose line** — never extend into a 2-line couplet *"X jaisa hota hai. Y ho jaata hai."* (P13).
+- **No metaphor / analogy / rhyme — plain literal cause-effect (P17).** State the mechanism as a fact, not a comparison. No *tijori / taala / alarm / godown / nala / pressure-cooker*. No couplets, no rhyme — not even in bold overlays.
+- **Zero / minimal English (P8 §3a).** Feelings in Hindi: *pareshani / jhunjhlahat* not "frustration", *khud pe shak* not "self-doubt", *tulna* not "comparison", *apni pehchaan* not "identity". No *personality / motivation / insecurity / journey / transformation* in English. No *Visceral / Subcutaneous fat*, no *Post-partum metabolism*.
 - **No English bullet phrases.** No "key benefits". No "in summary".
 - One concrete object/scene per beat — kapda, mirror, blouse, dabba, chai cup, scale (referenced, not numbered).
 - **CTA inherits the host's voice** — not slogan / jingle / marketing copy. The last spoken line should sound like the same friend still talking, not a separate voiceover. (P15.)
@@ -171,10 +185,12 @@ Tone: cautious-curious, not excited. She's been burned. No Seekho logo until CTA
 - ❌ Shame as final emotion (must end on hope / empowerment / determination)
 - ❌ Vague instructions ("eat healthy")
 - ❌ English without immediate Hindi translation
+- ❌ Any metaphor / analogy / rhyme / couplet anywhere (P17)
+- ❌ Abstract-English emotion words — frustration / self-doubt / comparison / identity / personality / motivation (P8 §3a)
 
 Run the **§F compliance check** (below) before delivering. If borderline, choose the safer phrasing.
 
-### §F final compliance gate — answer YES to all 16
+### §F final compliance gate — answer YES to all 21
 
 1. Zero numeric weight/size/time claims?
 2. Zero before/after framing (visual or verbal)?
@@ -183,15 +199,20 @@ Run the **§F compliance check** (below) before delivering. If borderline, choos
 5. Ends on hope/empowerment, not shame?
 6. Seekho not named in Hook?
 7. Every English term has an immediate Hindi translation?
-8. **(P7)** Hook's first 1–2 spoken lines contain a weight-loss category signal word (kapde tight / blouse / vajan / motapa / body / weight / patli-vs-moti / function-mein-fit)?
-9. **(P8)** Zero Tier-1 banned words present (terrace, hormones, metabolism, adrenaline, immunity, cardio, workout, lifestyle, detox, toxins, superfood, organic, BMI, BMR, sedentary, mindful eating)? Greylisted words (cortisol/ghrelin/insulin/calories) appear at most once with inline translation?
+8. **(P7)** Hook's first 1–2 spoken lines contain a weight-loss category signal word (kapde tight / blouse / vajan / motapa / body / weight / patli-vs-moti / function-mein-fit) — AND, if the hook's memorable punch is a quoted taunt, does that taunt itself spend an explicit body word (*patli/moti/vajan/motapa*), not a vague *"ab tum pehle jaisi kahan rahi"*?
+9. **(P8)** Zero Tier-1 banned words present (terrace, hormones, metabolism, adrenaline, immunity, cardio, workout, lifestyle, detox, toxins, superfood, organic, BMI, BMR, sedentary, mindful eating) AND zero abstract-English emotion words (frustration, self-doubt, comparison, identity, personality, motivation, insecurity, journey, transformation)? Greylisted words (cortisol/ghrelin/insulin/calories) appear at most once with inline translation?
 10. **(P9)** If Discovery beat contains a phone/video/screen/app cue, is "Seekho app" (or "Seekho") named explicitly in the next clause, spoken aloud (not visual-only)?
 11. **(P10)** Every doctor / expert / nutritionist / dietitian mention uses an educator verb (samjhaya / samjhate / explain / clarify), never a prescriber verb (bola / kaha / order / prescribe)?
 12. **(P11)** For ads ≥30s / ≥100 words: is there a bridge line between Solutions and Payoff (fuzzy timeline + small mechanism / consistency — no numerics, no day-count)? For <30s: is the bridge phrase prepended to the payoff line?
 13. **(P12)** Zero clusters of 3+ consecutive ultra-short (sub-6-word) lines? Connectives (toh / par / kyunki / aur / lekin / fir / isliye) appear at least once every 2–3 spoken lines across the script?
-14. **(P13)** Zero metaphor-as-couplet structures — no two adjacent lines of the shape *"X jaisa hota hai. Y ho jaata hai."* Each metaphor lives in one flowing prose line joined by a connective?
-15. **(P14)** Does the Discovery beat state BOTH (a) a noun-clause naming what topic the doctor was teaching AND (b) the specific insight that flipped the woman's thinking? Generic *"doctor samjha rahi thi"* / *"sab kuch ulta tha"* without the topic + insight **fails**.
-16. **(P15)** Does the second half of the script (Discovery → CTA) carry the same named relations, settings, vocabulary, and emotional thread as the first half? Does the Payoff close the loop on the first-half humiliation moment concretely? Does the CTA inherit the host's voice (NOT slogan / jingle / marketing copy)?
+14. **(P14, round 3)** Does the Discovery beat state BOTH (a) the **topic** the doctor was teaching (a noun-clause) AND (b) the specific **insight** that flipped her thinking — both spoken aloud, both required — pulled from `references/problem_statement_bank.md` (root-cause bucket A–H), a *distinct* framing, kept concrete (NOT generic *"doctor samjha rahi thi"* / *"sab kuch ulta tha"*, NOT the worn stock *"sharir ka chalan dheere ho jaata hai"* line)? (Would a stranger who saw your last same-root-cause ad recognise this framing as different?)
+15. **(P15)** Does the second half of the script (Discovery → CTA) carry the same named relations, settings, vocabulary, and emotional thread as the first half? Does the Payoff close the loop on the first-half humiliation moment concretely? Does the CTA inherit the host's voice (NOT slogan / jingle / marketing copy)?
+16. **(P16)** Is the Discovery a real remembered exchange — named/placed person + shared-past anchor + real trigger + friend's own spoken voice + real-life-outcome proof? (Not "ek friend / kisi ne", not an unprompted pitch.)
+17. **(P17)** Zero metaphor / analogy / simile / rhyme / couplet ANYWHERE? Solutions stated as plain literal cause-effect? (No tijori / taala / alarm / godown.)
+18. **(P18)** Does the Payoff pair ≥1 **concrete** physical change — ideally a named body part returning to normal (gaal/chehra pehle jaisa, kandhe halke, pet andar), not just "kapde fit" — AND ≥1 **concrete** emotional/relational change — ideally a social-attention reversal tied to the first-half taunters (log/pati pehle bhaav nahi dete the, ab dete hain), not just generic "confidence"?
+19. **(P19)** Is every doctor/expert reference framed as many ("bohot saare doctors aur experts" / "alag-alag doctors"), never "ek doctor" as the only expert cue? (A single video may be quoted only if platform framing still conveys breadth.)
+20. **(P20)** Does the weight-loss category-signal word land within the first ~15–20 spoken words (count from the first word), in the host's own voice — not buried after a taunt + reaction?
+21. **(P21, round 3)** Does the Solutions beat state the mechanism + reveal **exactly ONE** concrete do-this as a glimpse (a named food / habit / timing — e.g. *katori dahi/dal*) + tease that the rest is on Seekho (*"baaki sab usne Seekho pe un doctors se hi seekha"*) — not zero do-this, not the full regimen dumped? (The bank feeds the Discovery topic spine + the single glimpsed do-this; the remainder is withheld. *History: round 4 and round 5 both made this ZERO-do-this — both REVERTED; the live rule is round 3's single glimpse.*)
 
 If any answer is no, fix before delivering.
 
@@ -231,26 +252,21 @@ If any answer is no, fix before delivering.
 
 ## Script
 
-"<spoken line — hook>
-line break for breath
-agla line."
+"<spoken hook — flowing, P7 category signal in the first 1–2 lines; connected clauses, not chopped fragments.>
 
-"<spoken line — body>
-…"
+<spoken body — continuous narration setting context + persona, P12 connectives toh/par/kyunki.>
 
-"<spoken line — failed effort>
-…"
+<spoken failed-effort — woven into the story, not a bullet.>
 
-"<spoken line — discovery>
-…"
+<spoken discovery — a real remembered exchange (P16): named/placed person + shared-past anchor + her own spoken voice, naming 'Seekho app' (P9) + BOTH the topic the doctor taught AND the insight that flipped her thinking (P14, round 3 — both required), pulled from problem_statement_bank.md, a distinct + specific framing (not the stock "sharir ka chalan dheere" line), kept concrete. e.g. "doctor samjha rahi thi ki bhookha rehne se body khaana jamaa karne lagti hai — tab samajh aaya ki kam khaana solution nahi, ulta hai.">
 
-"<spoken line — solutions>
-…"
+<spoken solutions — a glimpse + a cliffhanger (P21, round 3): state the mechanism, reveal exactly ONE concrete do-this as a glimpse (a named food/habit/timing — e.g. "har khaane ke saath ek katori dahi ya dal"), then tease the rest is on Seekho — e.g. "baaki sab usne Seekho pe un doctors se hi seekha — kya khaana, kab khaana, sab apni body ke hisaab se." Not zero do-this, not the full regimen.>
 
-"<spoken line — payoff>
-…"
+<spoken bridge (P11) — dheere dheere, kuch hafton mein, consistency; no numerics.>
 
-"<spoken CTA — Seekho install karo>"
+<spoken payoff (P18) — pair a physical change (kapde fit / aaina / saans / neend) AND an emotional/relational change (confidence / rishta / maa ki khushi), adjacent.>
+
+<spoken CTA — host's own voice, carrying the same thread (P15): 'Seekho — abhi install karo.'>"
 
 ## Compliance §F — all clean ✅
 1. No numeric claims ✅
@@ -261,17 +277,19 @@ agla line."
 6. Seekho not in Hook ✅
 7. English always translated ✅
 8. (P7) Hook category signal in first 1–2 lines ✅
-9. (P8) No Tier-1 banned words ✅
+9. (P8) No Tier-1 banned words + no abstract-English emotion words ✅
 10. (P9) Seekho named explicitly when phone/video appears in Discovery ✅
 11. (P10) Doctor educator verbs only (samjhaya, never bola) ✅
 12. (P11) Payoff bridge line present (or prepended for <30s) ✅
 13. (P12) No 3+ staccato-line clusters; connectives across the script ✅
-14. (P13) No metaphor-as-couplet; analogies stay in one prose line ✅
-15. (P14) Discovery states topic + insight (not just "samjha rahi thi") ✅
-16. (P15) Second half stays in sync with first half; CTA inherits host's voice ✅
+14. (P14) Discovery states topic + insight from `problem_statement_bank.md` — distinct, not the worn "sharir ka chalan dheere" stock line ✅
+15. (P15) Second half stays in sync with first half; CTA inherits host's voice ✅
+16. (P16) Discovery is a real remembered exchange (named person + shared past + own voice + real outcome) ✅
+17. (P17) Zero metaphor / analogy / rhyme anywhere; Solutions literal cause-effect ✅
+18. (P18) Payoff pairs a physical change AND an emotional/relational change ✅
 ```
 
-**The script section contains ONLY spoken lines in quotes.** No `[VISUAL: …]`, no `[TEXT: …]`, no scene descriptions, no camera notes. Just dialogue, line-broken for breath. The beat table above tells the editor what beat each chunk belongs to — the script itself is pure voice.
+**The whole script is ONE flowing first-person monologue in quotes — like one woman telling another her story.** Use connectives, not stacked one-liners. Line breaks mark breath/beat transitions, not grammar. No `[VISUAL: …]`, no `[TEXT: …]`, no scene descriptions, no camera notes. The beat table above tells the editor what beat each chunk belongs to — the script itself is pure voice.
 
 ---
 
@@ -419,7 +437,7 @@ The single block contains, in this order:
 2. Beat table (7 rows, timecodes, notes)
 3. **Plain spoken script** — only the words the host speaks. Line-broken for breath. **No visual descriptions, no `[VISUAL: …]` markers, no `[TEXT: …]` overlay markers, no camera/B-roll directions, no scene-setting prose.** Just dialogue.
 4. CTA — the exact spoken install line as the final line of the script
-5. §F compliance check at the very end (all 16 questions answered YES)
+5. §F compliance check at the very end (all 21 questions answered YES)
 
 **Do NOT:**
 - Include `[VISUAL: …]` blocks. The script is voice-only.
